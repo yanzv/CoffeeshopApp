@@ -1,3 +1,4 @@
+<H1><CENTER>Coffee Shop Application, Applet, and Servlet</CENTER></H1>
 Coffee Shop Repository consits of 
 Coffee Shop Application
 Coffee Shop Applet 
